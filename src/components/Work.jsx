@@ -3,37 +3,37 @@ import ProjectCard from './ProjectCard';
 
 const works = [
     {
-      imgSrc: '/images/RIP.png',
+      imgSrc: '/Portfolio/images/RIP.png',
       title: 'Rip',
       tags: ['Netwok', 'Protocol', 'OptimalPath'],
       projectLink: 'https://github.com/LakshmikanthanC/RIP'
     },
     {
-      imgSrc: '/images/Ems.png',
+      imgSrc: '/Portfolio/images/Ems.png',
       title: 'Ems',
       tags: ['tailwind', 'vite'],
       projectLink: 'https://github.com/LakshmikanthanC/ems'
     },
     {
-      imgSrc: '/images/Key.png',
+      imgSrc: '/Portfolio/images/Key.png',
       title: 'KeyBoard music',
       tags: ['Html', 'Js'],
       projectLink: 'https://github.com/LakshmikanthanC/Keyboard'
     },
     {
-      imgSrc: '/images/project-4.jpg',
+      imgSrc: '/Portfolio/images/project-4.jpg',
       title: 'Real state website',
       tags: ['Web-design', 'Development'],
       projectLink: 'https://github.com/codewithsadee-org/wealthome'
     },
     {
-      imgSrc: '/images/project-5.jpg',
+      imgSrc: '/Portfolio/images/project-5.jpg',
       title: 'eCommerce website',
       tags: ['eCommerce', 'Development'],
       projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
     },
     {
-      imgSrc: '/images/project-6.jpg',
+      imgSrc: '/Portfolio/images/project-6.jpg',
       title: 'vCard Personal portfolio',
       tags: ['Web-design', 'Development'],
       projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'

@@ -117,7 +117,7 @@ const Footer = () => {
                 className="logo reveal-up"
                 >
                     <img
-                    src="/images/L.png"
+                    src="/Portfolio/images/L.png"
                     width={40}
                     height={40}
                     alt="Logo"

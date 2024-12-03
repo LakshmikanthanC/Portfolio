@@ -18,7 +18,7 @@ const[navOpen, setNavOpen]=useState(false);
             
             <h1>
                 <a href="/" className="logo">
-                <img src="/images/L.png" width={40} height={40} alt="lak"/>
+                <img src="/Portfolio/images/L.png" width={40} height={40} alt="lak"/>
                 </a>
             </h1>
             <div className="relative md:justify-self-center">
