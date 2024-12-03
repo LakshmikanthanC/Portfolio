@@ -23,7 +23,7 @@ const About = () => {
         <div className="bg-zinc-800/50 p-7 rounded-2xl md:p-12 reveal-up">
             <p className="text-zinc-300 mb-4 md:mb-8
             md:text-xl md:max-w-[60ch]">
-            Welcome! I&apos;m Lakshmikanthan C, Student willing to learn new technologies and to apply my mere knowledge in creating real world application. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance 
+            Welcome! I&apos;m Lakshmikanthan C, A student willing to learn new technologies and to apply my mere knowledge in creating real world application. Combining creativity and technical expertise. I transform your vision into digital masterpiece that excels in both appearance and performance 
             </p>
             <div className="flex flex-wrap items-center md:gap-7">
                 {
