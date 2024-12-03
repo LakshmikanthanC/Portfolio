@@ -17,7 +17,7 @@ const[navOpen, setNavOpen]=useState(false);
             ">
             
             <h1>
-                <a href="/" className="logo">
+                <a href="Portfolio" className="logo">
                 <img src="/Portfolio/images/L.png" width={40} height={40} alt="lak"/>
                 </a>
             </h1>
