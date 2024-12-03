@@ -14,37 +14,37 @@ import ReviewCard from "./ReviewCard";
     {
       content: 'web devloper Internship in prodigy Infotech',
       name: 'Prodigy Infotech',
-      imgSrc: '/images/prodigy.jpg',
+      imgSrc: '/Portfolio/images/prodigy.jpg',
       company: 'Prodigy Infotect'
     },
     {
       content: 'Overview of MongoDB fundamentals, from the document model to CRUD operations to indexing.',
       name: 'Mongo DB',
-      imgSrc: '/images/mongo.png',
+      imgSrc: '/Portfolio/images/mongo.png',
       company: 'Certifition'
     },
     {
       content: 'Rmk symposium i have practiacte in tech event in rmk' ,
       name: 'ohm\'s odessy',
-      imgSrc: '/images/idea.png',
+      imgSrc: '/Portfolio/images/idea.png',
       company: 'Symposium'
     },
     {
       content: 'I have done Cybersecurity inj coursera.',
       name: 'Courseera',
-      imgSrc: '/images/coursera.png',
+      imgSrc: '/Portfolio/images/coursera.png',
       company: 'Certifition'
     },
     {
       content: 'Python with Data Science in GreatLearning',
       name: 'GreatLearning',
-      imgSrc: '/images/greatlearning.png',
+      imgSrc: '/Portfolio/images/greatlearning.png',
       company: 'Certifition'
     },
     {
       content: 'Fontend developer in GreatLearning',
       name: 'GreatLearning',
-      imgSrc: '/images/greatlearning.png',
+      imgSrc: '/Portfolio/images/greatlearning.png',
       company: 'Certifition'
     }
   ];
