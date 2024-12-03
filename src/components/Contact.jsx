@@ -97,7 +97,7 @@ const Contact = () => {
                         id="email" 
                         autoComplete="email"
                         required
-                        placeholder="Lakshmi@example.com"
+                        placeholder="Email@example.com"
                         className="text-field reveal-up" 
                         />
 
