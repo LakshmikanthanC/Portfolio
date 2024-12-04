@@ -38,9 +38,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Demo
 
-<video width="320" height="240" autoplay>
-  <source src="public/images/v1.mp4" type="video/mp4">
-</video>
+<video src="public/images/v1.mp4" controls width="600"></video>
 
 **Check out the website here ➡️** https://rb.gy/zm5qn5
 
