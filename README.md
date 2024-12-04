@@ -1,7 +1,7 @@
 
 # 👨‍💻Personal PortFolio
 
-Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://shorturl.at/9S1Eq">Live Demo</a>
+Welcome to my personal portfolio👨‍💻, a curated collection of my creative🎨 and professional journey. This portfolio showcases my expertise, dedication, and passion for design and innovation. <a href="https://rbgy/zm5qn5">Live Demo</a>
 
 ## 📌Techstack
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white) &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) &nbsp; ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) &nbsp; ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white) &nbsp;![GSAP](https://img.shields.io/badge/GSAP-React-brightgreen?style=flat&logo=greensock) &nbsp;![Lenis](https://img.shields.io/badge/Lenis-blue?style=flat&logo=react)
@@ -10,12 +10,12 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="p1.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/p1.png" alt="">
 
 
 ![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="About.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/About.png" alt="">
 
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
