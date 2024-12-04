@@ -8,39 +8,39 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Screenshots
 
-![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
+![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=blue )
 
-<img src="/Portfolio/lak/public/images/p1.png" alt="">
-
-
-![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
-
-<img src="/Portfolio/lak/public/images/About.png" alt="">
+<img src="public/images/p1.png" alt="">
 
 
-![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
+![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=blue )
+
+<img src="/public/images/About.png" alt="">
+
+
+![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=blue)
 
 <img src="/Portfolio/lak/public/images/Work.png" alt="">
 
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-<img src="/Portfolio/lak/public/images/Achievements.png" alt="">
+<img src="/public/images/Achievements.png" alt="">
 
-![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
+![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=blue)
 
-<img src="/Portfolio/lak/public/images/Contact.png" alt="">
+<img src="public/images/Contact.png" alt="">
 
 
-![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=#87CEEB)
+![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=blue)
 
-<img src="/Portfolio/lak/public/images/Footer.png" alt="">
+<img src="/public/images/Footer.png" alt="">
 
 ## 📌Demo
 
 <video width="320" height="240" autoplay>
-  <source src="/Portfolio/public/videos/v1.mp4" type="video/mp4">
-  <source src="/Portfolio/public/video/v1.ogg" type="video/ogg">
+  <source src="public/videos/v1.mp4" type="video/mp4">
+  <source src="public/videos/v1.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
