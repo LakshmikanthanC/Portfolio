@@ -10,37 +10,37 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="p1.png" alt="">
+![image]<img src="/Portfolio/images/p1.png" alt="">
 
 
 ![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="About.png" alt="">
+![image]<img src="/Portfolio/images/About.png" alt="">
 
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Work.png" alt="">
+![image]<img src="/Portfolio/images/Work.png" alt="">
 
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="Achievements.png" alt="">
+![image]<img src="/Portfolio/images/Achievements.png" alt="">
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Contact.png" alt="">
+![image]<img src="/Portfolio/images/Contact.png" alt="">
 
 
 ![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Footer.png" alt="">
+![image]<img src="/Portfolio/images/Footer.png" alt="">
 
 ## 📌Demo
 
 <video width="320" height="240" autoplay>
-  <source src="v1.mp4" type="video/mp4">
-  <source src="v1.ogg" type="video/ogg">
+  <source src="/Portfolio/videos/v1.mp4" type="video/mp4">
+  <source src="/Portfolio/video/v1.ogg" type="video/ogg">
 Your browser does not support the video tag.
 </video>
 
