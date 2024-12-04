@@ -20,12 +20,12 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=blue)
 
-<img src="/Portfolio/lak/public/images/Work.png" alt="">
+<img src="public/images/Work.png" alt="">
 
 
-![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
+![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=blue )
 
-<img src="/public/images/Achievements.png" alt="">
+<img src="public/images/Achievements.png" alt="">
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=blue)
 
@@ -39,9 +39,9 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 ## 📌Demo
 
 <video width="320" height="240" autoplay>
-  <source src="public/videos/v1.mp4" type="video/mp4">
-  <source src="public/videos/v1.ogg" type="video/ogg">
-Your browser does not support the video tag.
+  <source src="public/images/v1.mp4" type="video/mp4">
+  
+
 </video>
 
 **Check out the website here ➡️** https://rb.gy/zm5qn5
