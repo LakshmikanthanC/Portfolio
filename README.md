@@ -38,7 +38,6 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Demo
 
-<img src="/public/images/v1.mp4" alt="">
 <video src="public/images/v1.mp4"  controls width="600">hi</video>
 
 **Check out the website here ➡️** https://rb.gy/zm5qn5
