@@ -25,7 +25,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=blue )
 
-<img src="public/images/Achievements.png" alt="">
+<img src="public/images/Achivements.png" alt="">
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=blue)
 
@@ -40,8 +40,6 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 <video width="320" height="240" autoplay>
   <source src="public/images/v1.mp4" type="video/mp4">
-  
-
 </video>
 
 **Check out the website here ➡️** https://rb.gy/zm5qn5
