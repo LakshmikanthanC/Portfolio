@@ -40,7 +40,7 @@
 
 https://github.com/user-attachments/assets/9323068d-0665-4894-b4bf-608a288f530f
 
-**Check out the website here ➡️** https://rb.gy/zm5qn5
+**Check out the website here ➡️** (https://lakshmikanthanc.github.io/Portfolio/)
 
 ## 📌Installation
 
