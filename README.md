@@ -67,4 +67,4 @@ npm install vite
 npm run dev
 ```
 
-![GitHubViews](https://github.io/LakshmikanthanC/Portfolio)
+![GitHub Views](https://komarev.com/ghpvc/?username=LakshmikanthanC&repository=Portfolio)
