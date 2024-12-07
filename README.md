@@ -67,4 +67,4 @@ npm install vite
 npm run dev
 ```
 
-![GitHubViews]https://github.io/LakshmikanthanC/Portfolio
+![GitHubViews](https://github.io/LakshmikanthanC/Portfolio)
