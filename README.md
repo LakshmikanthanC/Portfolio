@@ -40,7 +40,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 https://github.com/user-attachments/assets/6f271d4f-0006-471a-9c71-0d606746dd2f
 
-**Check out the website here ➡️** https://github.com/LakshmikanthanC/Portfolio
+**Check out the website here ➡️** https://lakshmikanthanc.github.io/Portfolio/
 
 ## 📌Installation
 
