@@ -34,19 +34,11 @@ const sitemap = [
       href: 'https://www.linkedin.com/in/lakshmikanthan-c-951568289/'
     },
     {
-<<<<<<< HEAD
       label: 'Leetcode',
       href: 'https://leetcode.com/u/Lakshmikantha_2003/_'
     },
     {
       label: 'Hackrank',
-=======
-      label: 'LeetCode',
-      href: 'https://leetcode.com/u/Lakshmikantha_2003/'
-    },
-    {
-      label: 'Hackranker',
->>>>>>> 153d243499ee073b61bd7731b1af4d49df26b973
       href: 'https://www.hackerrank.com/profile/geelakshmi2003'
     },
     {
