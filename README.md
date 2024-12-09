@@ -10,31 +10,31 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="/Portfolio/lak/public/images/p1.png" alt="">
+![image]![p1](https://github.com/user-attachments/assets/41e7ea5b-6363-4b11-b62e-cbbebafa976d)
 
 
 ![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="/Portfolio/lak/public/images/About.png" alt="">
+![image]![About](https://github.com/user-attachments/assets/e5a1d71b-3cdc-415c-a456-a0a9b385793f)
 
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="/Portfolio/lak/public/images/Work.png" alt="">
+![image]![Work](https://github.com/user-attachments/assets/dc8d3839-479f-408c-b9fc-053563f1150d)
 
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="/Portfolio/lak/public/images/Achievements.png" alt="">
+![image](https://github.com/user-attachments/assets/40beac17-9a17-4187-9f41-4e0cff2f2415)
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="/Portfolio/lak/public/images/Contact.png" alt="">
+![image]![Contact](https://github.com/user-attachments/assets/d7c3a59d-bc56-43ab-9d19-9ddb04a2422d)
 
 
 ![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="/Portfolio/lak/public/images/Footer.png" alt="">
+![image]![Footer](https://github.com/user-attachments/assets/b10b6327-5c61-41a6-b3b0-1871b0e4c21f)
 
 ## 📌Demo
 
@@ -68,3 +68,10 @@ npm run dev
 ```
 
 ![GitHub Views]https://github.com/LakshmikanthanC/Portfolio
+
+
+
+
+
+![Achivements](https://github.com/user-attachments/assets/b2ae1b47-106e-4528-b86a-b5daabcb463c)
+
