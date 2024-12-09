@@ -20,31 +20,27 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Work.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/Work.png" alt="">
 
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]<img src="Achievements.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/Achievements.png" alt="">
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Contact.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/Contact.png" alt="">
 
 
 ![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]<img src="Footer.png" alt="">
+![image]<img src="/Portfolio/lak/public/images/Footer.png" alt="">
 
 ## 📌Demo
 
-<video width="320" height="240" autoplay>
-  <source src="v1.mp4" type="video/mp4">
-  <source src="v1.ogg" type="video/ogg">
-Your browser does not support the video tag.
-</video>
+(https://github.com/user-attachments/assets/8a61c7f5-aad4-4662-adaf-5a465b85968c)
 
-**Check out the website here ➡️** https://rb.gy/zm5qn5
+**Check out the website here ➡️** https://github.com/LakshmikanthanC/Portfolio
 
 ## 📌Installation
 
