@@ -10,17 +10,17 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Homepage](https://img.shields.io/badge/Home&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]![p1](https://github.com/user-attachments/assets/41e7ea5b-6363-4b11-b62e-cbbebafa976d)
+![p1](https://github.com/user-attachments/assets/41e7ea5b-6363-4b11-b62e-cbbebafa976d)
 
 
 ![Aboutpage](https://img.shields.io/badge/About&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
 
-![image]![About](https://github.com/user-attachments/assets/e5a1d71b-3cdc-415c-a456-a0a9b385793f)
+![About](https://github.com/user-attachments/assets/e5a1d71b-3cdc-415c-a456-a0a9b385793f)
 
 
 ![Workpage](https://img.shields.io/badge/Work&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]![Work](https://github.com/user-attachments/assets/dc8d3839-479f-408c-b9fc-053563f1150d)
+![Work](https://github.com/user-attachments/assets/dc8d3839-479f-408c-b9fc-053563f1150d)
 
 
 ![Achievementspage](https://img.shields.io/badge/Achievements&nbsp;&amp;&nbsp;Certifications&nbsp;page-%230078D4?style=flat&colorB=#87CEEB )
@@ -29,12 +29,12 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ![Contactpage](https://img.shields.io/badge/Contact&nbsp;page-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]![Contact](https://github.com/user-attachments/assets/d7c3a59d-bc56-43ab-9d19-9ddb04a2422d)
+![Contact](https://github.com/user-attachments/assets/d7c3a59d-bc56-43ab-9d19-9ddb04a2422d)
 
 
 ![Footersection](https://img.shields.io/badge/Footer&nbsp;section-%230078D4?style=flat&colorB=#87CEEB)
 
-![image]![Footer](https://github.com/user-attachments/assets/b10b6327-5c61-41a6-b3b0-1871b0e4c21f)
+![Footer](https://github.com/user-attachments/assets/b10b6327-5c61-41a6-b3b0-1871b0e4c21f)
 
 ## 📌Demo
 
