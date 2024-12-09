@@ -68,10 +68,3 @@ npm run dev
 ```
 
 ![GitHub Views]https://github.com/LakshmikanthanC/Portfolio
-
-
-
-
-
-![Achivements](https://github.com/user-attachments/assets/b2ae1b47-106e-4528-b86a-b5daabcb463c)
-
