@@ -38,7 +38,7 @@ Welcome to my personal portfolio👨‍💻, a curated collection of my creative
 
 ## 📌Demo
 
-(https://github.com/user-attachments/assets/8a61c7f5-aad4-4662-adaf-5a465b85968c)
+https://github.com/user-attachments/assets/8a61c7f5-aad4-4662-adaf-5a465b85968c
 
 **Check out the website here ➡️** https://github.com/LakshmikanthanC/Portfolio
 
