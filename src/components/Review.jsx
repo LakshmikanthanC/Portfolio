@@ -72,7 +72,7 @@ const Review = () => {
         <div className="container">
 
             <h2 className="headline-2 mb-8 reveal-up">
-            Achivements and Certifition
+            Achivements and Certification
             </h2>
 
             <div className="scrube-slide flex items-stretch gap-3 w-fit">

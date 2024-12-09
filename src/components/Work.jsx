@@ -4,7 +4,7 @@ import ProjectCard from './ProjectCard';
 const works = [
     {
       imgSrc: '/Portfolio/images/RIP.png',
-      title: 'Rip',
+      title: 'Routing information protocol',
       tags: ['Netwok', 'Protocol', 'OptimalPath'],
       projectLink: 'https://github.com/LakshmikanthanC/RIP'
     },
@@ -24,19 +24,19 @@ const works = [
       imgSrc: '/Portfolio/images/project-4.jpg',
       title: 'Real state website',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee-org/wealthome'
+      // projectLink: ''
     },
     {
       imgSrc: '/Portfolio/images/project-5.jpg',
       title: 'eCommerce website',
       tags: ['eCommerce', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/anon-ecommerce-website'
+      projectLink: ''
     },
     {
       imgSrc: '/Portfolio/images/project-6.jpg',
       title: 'vCard Personal portfolio',
       tags: ['Web-design', 'Development'],
-      projectLink: 'https://github.com/codewithsadee/vcard-personal-portfolio'
+      projectLink: ''
     },
   ];
 

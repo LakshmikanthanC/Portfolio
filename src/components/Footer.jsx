@@ -27,23 +27,23 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://github.com/LakshmikanthanC'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
+      href: 'https://www.linkedin.com/in/lakshmikanthan-c-951568289/'
     },
     {
-      label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      label: 'Leetcode',
+      href: 'https://leetcode.com/u/Lakshmikantha_2003/_'
     },
     {
-      label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
+      label: 'Hackrank',
+      href: 'https://www.hackerrank.com/profile/geelakshmi2003'
     },
     {
-      label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      label: 'GreeksForGreeks',
+      href: 'https://www.geeksforgeeks.org/user/geelakshexnr/'
     }
   ];
 
